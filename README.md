@@ -92,9 +92,9 @@ Windows                 24 hrs 2 mins       ████████████
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
-React.js                 8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   61.90 % 
+React.js                 8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   20.52 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 ```
 
 
