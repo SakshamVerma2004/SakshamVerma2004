@@ -3,7 +3,7 @@
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://saksham-verma.netlify.app/)
 
-### 📫 About Me?
+### 📫 About Me
 
 Full Stack Web Developer, CSS Devotee, JS Lover, React.js Passionate, always find opportunities to test my skills and tries to complete the task with bare min.
 
