@@ -1,64 +1,35 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Saksham Verma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://saksham-verma.netlify.app/)
 
-### 📫 Like to meet me?
+### 📫 About Me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+Full Stack Web Developer, CSS Devotee, JS Lover, React.js Passionate, always find opportunities to test my skills and tries to complete the task with bare min.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    code: ["HTML 5", "CSS4", "Javascript", "Javascript Frameworks"],
+    askMeAbout: ["web dev", "tech trends"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            js: ["React", "Vite"],
+            uiLibraries: ["Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            js: ["Node", "Express"],
         },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        databases: ["MongoDB", "Firebase Realtime DB"],
+        misc: ["REST APIs", "WebSockets"],
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Leading a way in generative AI innovation",
+    currentFocus: "Sharpen my skills to the peak and develop full stack mern apps to the best",
     funFact: "I can debug faster with a coffee in hand!"
 };
 ```
@@ -67,80 +38,69 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C501%20hrs%2025%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-756-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2024
+> 🏆 102 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 📜 11 Public Repositories 
  > 
-> 📜 22 Public Repositories 
+> 🔑 8 Private Repositories 
  > 
-> 🔑 29 Private Repositories 
- > 
-**I'm an Early 🐤** 
+**I'm an Early (Current Sprint) 🐤** 
 
 ```text
-🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
-🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+🌞 Morning                12 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌆 Daytime                33 commits         ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌃 Evening                22 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  10 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday (Current Sprint)** 
 
 ```text
-Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Sunday                   944 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Monday                   49 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  51 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                59 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 50 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   43 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 49 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Sunday                   66 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: IST
 
 💬 Programming Languages: 
-TypeScript               22 hrs 48 mins      ████████████████████████░   94.91 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Javascript & JS Frameworks        22 hrs 48 mins      ████████████████████████░   94.91 % 
+Node.js , Express.js              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+HTML                              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JSON                              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+CSS                               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-WebStorm                 24 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                 24 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                 24 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+React.js                 8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 21/12/2024 00:31:31 UTC
+ Last Updated on 21/12/2024 19:00:31 ITC
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
