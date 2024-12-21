@@ -10,7 +10,7 @@ Full Stack Web Developer, CSS Devotee, JS Lover, React.js Passionate, always fin
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const saksham_verma = {
     pronouns: "He" | "Him",
     code: ["HTML 5", "CSS4", "Javascript", "Javascript Frameworks"],
     askMeAbout: ["web dev", "tech trends"],
