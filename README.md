@@ -16,18 +16,18 @@ const saksham_verma = {
     askMeAbout: ["web dev", "tech trends"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vite"],
+            js: ["React", "Vite", "Next"],
             uiLibraries: ["Chakra UI"],
         },
         backEnd: {
             js: ["Node", "Express"],
         },
         databases: ["MongoDB", "Firebase Realtime DB"],
-        misc: ["REST APIs", "WebSockets"],
+        misc: ["REST APIs"],
     },
     architecture: {
-        frontEnd: ["SPA", "SSR"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+        frontEnd: ["SPA", "SSG"],
+        databases: ["Relational", "NoSQL"],
     },
     currentFocus: "Sharpen my skills to the peak and develop full stack mern apps to the best",
     funFact: "I can debug faster with a coffee in hand!"
