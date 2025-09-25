@@ -30,7 +30,6 @@ const saksham_verma = {
         databases: ["Relational", "NoSQL"],
     },
     currentFocus: "Sharpen my skills to the peak and develop full stack mern apps to the best",
-    funFact: "I can debug faster with a coffee in hand!"
 };
 ```
 
