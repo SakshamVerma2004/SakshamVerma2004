@@ -22,14 +22,14 @@ const saksham_verma = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["MongoDB", "Firebase Realtime DB"],
+        databases: ["MongoDB", "Firebase Realtime DB", "MySQL", "Postgres"],
         misc: ["REST APIs"],
     },
     architecture: {
         frontEnd: ["SPA", "SSG"],
         databases: ["Relational", "NoSQL"],
     },
-    currentFocus: "Sharpen my skills to the peak and develop full stack mern apps to the best",
+    currentFocus: "Sharpen my skills to the peak and develop full stack apps to the best",
 };
 ```
 
@@ -91,9 +91,9 @@ Windows                 24 hrs 2 mins       ████████████
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   61.90 % 
-React.js                 8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   20.52 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   61.90 % 
+React.js                 12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   20.52 % 
+CSS                      1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 ```
 
 <!--END_SECTION:waka-->
