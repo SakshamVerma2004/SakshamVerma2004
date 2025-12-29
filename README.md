@@ -42,11 +42,11 @@ const saksham_verma = {
 
 > 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2024
+> 🏆 240 Contributions in the Year 2025
  > 
-> 📜 11 Public Repositories 
+> 📜 18 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm an Early (Current Sprint) 🐤** 
 
