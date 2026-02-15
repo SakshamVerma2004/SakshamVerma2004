@@ -1,4 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Saksham Verma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://saksham-verma.netlify.app/)
@@ -38,16 +39,6 @@ const saksham_verma = {
 ---
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
-> 📦 251.1 kB Used in GitHub's Storage 
- > 
-> 🏆 240 Contributions in the Year 2025
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
 **I'm an Early (Current Sprint) 🐤** 
 
 ```text
